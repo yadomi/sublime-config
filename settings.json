@@ -54,5 +54,6 @@
   "explorer.confirmDelete": false,
   "workbench.startupEditor": "newUntitledFile",
   "window.zoomLevel": 0,
-  "breadcrumbs.enabled": true
+  "breadcrumbs.enabled": true,
+  "editor.hover.sticky": false
 }
