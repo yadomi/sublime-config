@@ -1,0 +1,58 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "editor.cursorBlinking": "smooth",
+  "workbench.statusBar.visible": true,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Eva Dark Bold",
+  "window.title": "${activeEditorLong}${separator}${rootName}",
+  "editor.snippetSuggestions": "top",
+  "files.exclude": {
+    "**/tmp": true,
+    "**/node_modules": true,
+    "**/node_modules.bak": true,
+    "**/bower_components": true,
+    "**/cjs/**": true,
+    "**/volumes/**": true
+  },
+  "files.watcherExclude": {
+    "**/tmp/**": true,
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/cjs/**": true
+  },
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx"
+  },
+  "eslint.autoFixOnSave": true,
+  "editor.renderWhitespace": "all",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#222"
+  },
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    120
+  ],
+  "editor.formatOnSave": false,
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[scss]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.eslintIntegration": true,
+  "prettier.jsxBracketSameLine": true,
+  "files.trimTrailingWhitespace": false,
+  "editor.smoothScrolling": true,
+  "editor.parameterHints": false,
+  "files.associations": {
+    "*.ejs": "javascriptreact"
+  },
+  "explorer.confirmDelete": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 0,
+  "breadcrumbs.enabled": true
+}

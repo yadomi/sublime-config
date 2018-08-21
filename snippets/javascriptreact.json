@@ -1,0 +1,22 @@
+{
+	"HOC": {
+		"prefix": "reacthoc",
+		"body" : [
+			"import React from 'react'",
+			"",
+			"export const ${1:withSomething} = ComposedComponent => class extends Component {",
+				"render() {",
+					"return <ComposedComponent {...this.props} />;",
+				"}",
+			"}"
+		],
+		"description": "Higher Order Component template"
+	},
+	"sevent": {
+		"prefix": "sevent",
+		"body": [
+			"SyntheticEvent<${1}>"
+		],
+		"description": "React SyntheticEvent for flow"
+	}
+}
