@@ -55,5 +55,16 @@
   "workbench.startupEditor": "newUntitledFile",
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": true,
-  "editor.hover.sticky": false
+  "editor.hover.sticky": false,
+  "sshfs.configs": [
+    {
+      "label": "preprod.kontestapp.com",
+      "root": "/var/www/app/current",
+      "host": "preprod.kontestapp.com",
+      "port": 22,
+      "username": "jimmy",
+      "password": true,
+      "name": "kontest_preprod_app"
+    }
+  ]
 }
