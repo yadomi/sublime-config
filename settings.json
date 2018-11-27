@@ -53,7 +53,7 @@
   },
   "explorer.confirmDelete": false,
   "workbench.startupEditor": "newUntitledFile",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "breadcrumbs.enabled": true,
   "editor.hover.sticky": false,
   "sshfs.configs": [
