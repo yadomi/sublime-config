@@ -66,5 +66,6 @@
       "password": true,
       "name": "kontest_preprod_app"
     }
-  ]
+  ],
+  "search.location": "panel"
 }
