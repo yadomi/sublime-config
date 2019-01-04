@@ -38,7 +38,7 @@
   ],
   "editor.formatOnSave": false,
   "[javascript]": {
-    "editor.formatOnSave": true
+    "editor.formatOnSave": false
   },
   "[scss]": {
     "editor.formatOnSave": true
