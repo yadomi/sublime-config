@@ -33,12 +33,10 @@
     "statusBar.background": "#222"
   },
   "editor.minimap.enabled": false,
-  "editor.rulers": [
-    120
-  ],
+  "editor.rulers": [120],
   "editor.formatOnSave": false,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": true
   },
   "[scss]": {
     "editor.formatOnSave": true
