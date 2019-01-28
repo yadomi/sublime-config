@@ -34,7 +34,7 @@
   },
   "editor.minimap.enabled": false,
   "editor.rulers": [120],
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "[javascript]": {
     "editor.formatOnSave": false
   },
