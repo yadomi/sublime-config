@@ -54,5 +54,5 @@
   "breadcrumbs.enabled": true,
   "editor.hover.sticky": true,
   "search.location": "panel",
-  "flow.pathToFlow": "/Users/ffkrashstudio/.nvm/versions/node/v10.15.1/bin/flow"
+  "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow"
 }
