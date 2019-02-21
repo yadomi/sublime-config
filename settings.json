@@ -6,7 +6,7 @@
   "workbench.statusBar.visible": true,
   "workbench.sideBar.location": "right",
   "workbench.activityBar.visible": false,
-  "workbench.colorTheme": "Dracula Soft",
+  "workbench.colorTheme": "Horizon Italic",
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "editor.snippetSuggestions": "top",
   "files.exclude": {
