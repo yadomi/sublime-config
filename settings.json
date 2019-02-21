@@ -1,12 +1,12 @@
 {
-  "editor.fontFamily": "Fira Code",
-  "editor.fontSize": 16,
+  "editor.fontFamily": "Pragmata Pro Mono",
+  "editor.fontSize": 15,
   "editor.fontLigatures": true,
   "editor.cursorBlinking": "smooth",
   "workbench.statusBar.visible": true,
   "workbench.sideBar.location": "right",
   "workbench.activityBar.visible": false,
-  "workbench.colorTheme": "Eva Dark Bold",
+  "workbench.colorTheme": "Dracula Soft",
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "editor.snippetSuggestions": "top",
   "files.exclude": {
@@ -53,5 +53,6 @@
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": true,
   "editor.hover.sticky": true,
-  "search.location": "panel"
+  "search.location": "panel",
+  "flow.pathToFlow": "/Users/ffkrashstudio/.nvm/versions/node/v10.15.1/bin/flow"
 }
