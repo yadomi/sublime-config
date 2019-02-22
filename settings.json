@@ -53,5 +53,7 @@
   "window.zoomLevel": 0,
   "breadcrumbs.enabled": true,
   "editor.hover.sticky": true,
-  "search.location": "panel"
+  "search.location": "panel",
+  "editor.formatOnPaste": true,
+  "editor.multiCursorModifier": "ctrlCmd"
 }
