@@ -4,9 +4,8 @@
   "editor.fontLigatures": true,
   "editor.cursorBlinking": "smooth",
   "workbench.statusBar.visible": true,
-  "workbench.sideBar.location": "right",
+  "workbench.sideBar.location": "left",
   "workbench.activityBar.visible": false,
-  "workbench.colorTheme": "Horizon Italic",
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "editor.snippetSuggestions": "top",
   "files.exclude": {
@@ -55,5 +54,8 @@
   "editor.hover.sticky": true,
   "search.location": "panel",
   "editor.formatOnPaste": true,
-  "editor.multiCursorModifier": "ctrlCmd"
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.sideBar.location": "right",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.settings.editor": "json"
 }
