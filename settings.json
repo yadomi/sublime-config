@@ -4,7 +4,6 @@
   "editor.fontLigatures": true,
   "editor.cursorBlinking": "smooth",
   "workbench.statusBar.visible": true,
-  "workbench.sideBar.location": "left",
   "workbench.activityBar.visible": false,
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "editor.snippetSuggestions": "top",
@@ -35,7 +34,7 @@
   "editor.rulers": [120],
   "editor.formatOnSave": true,
   "[javascript]": {
-    "editor.formatOnSave": false
+    "editor.formatOnSave": true
   },
   "[scss]": {
     "editor.formatOnSave": true
