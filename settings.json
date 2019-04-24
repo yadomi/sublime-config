@@ -48,7 +48,7 @@
   },
   "explorer.confirmDelete": false,
   "workbench.startupEditor": "newUntitledFile",
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 4,
   "breadcrumbs.enabled": true,
   "editor.hover.sticky": true,
   "editor.formatOnPaste": true,
