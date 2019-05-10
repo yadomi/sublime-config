@@ -7,6 +7,9 @@
   "workbench.activityBar.visible": false,
   "window.title": "${activeEditorLong}${separator}${rootName}",
   "editor.snippetSuggestions": "top",
+  "editor.tokenColorCustomizations": {
+    "comments": "#F7EBC3"
+  },
   "files.exclude": {
     "**/tmp": true,
     "**/node_modules": true,
